@@ -10,7 +10,7 @@ Introduction Exploratory data analysis has been done on dataset of a image rende
    
 # Steps to replicate:
 
-1. Download the ipynb file and directly run in google colaboratory. it can also be accessed through: https://github.com/psagar2/recipes/blob/ac55464d0fa7c26022b76b51d526d37298e7a944/terapixel.ipynb .
+1. Download the ipynb file and directly run in google colaboratory. it can also be accessed through: https://colab.research.google.com/drive/1uZmVtAgBW7NAq3GWMNgZatRWIvFnv-71?usp=sharing .
 2. You first need the access of the dataset as it is not publicly available.
 3. After the dataset is accessed upload it to the colab notebook or place it in the folder of jupyter.
 4. Just press run all button and the full analysis would be performed in front of you.
